@@ -1,0 +1,190 @@
+*{
+	padding:0;
+	margin:0;
+}
+header {
+	background-color: #00b2ff75;
+
+}
+header img{
+	border-radius: 10px;
+	margin-left: 35px;
+	margin-top: 4px;
+	margin-bottom: 2px;
+}
+.nav{
+	float: right;
+	margin: 30px;
+}
+.nav a{
+	text-decoration: none;
+	color: white;
+	margin-right: 40px;
+	border: 3px solid;
+	padding: 7px;
+	border-color:black;
+	font-family:Lucida Sans;
+	border-radius: 8px;
+}
+header a:hover{
+	background-color: #baff0075;
+	transition: 0.25s ease-in-out;
+	color: black;
+	border-color: red;
+}
+
+}
+h2{
+	font-family: monospace;
+}
+ .details p{
+ 	color: white;
+ 	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+	display: inline-block;
+	margin-top: 10px;
+}
+.details{
+	margin-top: 90px;
+	margin-left: 100px;
+	background-color: #00ff4985;
+	width: 600px;
+	padding: 10px;
+	border-radius: 10px;
+}
+.carousel {
+	border:3px solid;
+	border-color:#0083ffd9; 
+	padding: 5px;
+	border-radius: 10px;
+	display: inline-block;
+	float: right;
+	margin-top: 160px;
+	margin-right: 100px;
+
+}
+.homefooter{
+	margin-top: 30px;
+	text-align: center;
+	background-color: #00b2ff75;
+}
+.loginfooter{
+	margin-top: 250px;
+	text-align: center;
+	background-color: #00b2ff75;
+}
+.signupfooter{
+	margin-top: 200px;
+	text-align: center;
+	background-color: #00b2ff75;
+}
+button{
+	margin-top: 250px;
+}
+.carousel-inner{
+	size: 150%;
+
+}
+figcaption{
+	text-align: center;
+	color: black;
+}	
+
+}
+.login h2{
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.login{
+	text-align: center;
+	margin-top: 170px;
+	display:inline-block; 
+	border:3px solid;
+	margin-left: 41%;
+	padding:15px; 
+	border-radius: 10px;
+	background-color:#00b2ff75;
+	border-color: #0083ffd9;  
+}
+.login button{
+	border-radius: 4px;
+	padding-left: 8px;
+	padding-right: 8px;
+	background-color: #6cb3cc;
+}
+.signup a{
+	text-decoration: none;
+	color: black;
+	background-color: #6cb3cc;
+	border-color:black;
+	border-radius: 4px;
+	padding: 15px;
+}
+.signup{
+	text-align: center;
+	margin-top: 170px;
+	display:inline-block; 
+	border:3px solid;
+	margin-left: 39%;
+	padding:15px; 
+	border-radius: 10px;
+	background-color:#00b2ff75;
+	border-color: #0083ffd9; 
+
+}
+.discarousel{
+	margin-left: 25%;
+	padding: 60px;
+	display: inline-block;
+	margin-top: 1px;
+}
+.dish1{
+	margin-left: 110px;
+	color: blue;
+}
+.disp{
+	font-size: 20px;
+	display: inline-block;
+	width: 900px;
+	color: #000000;
+	margin-left:20%;
+	text-align: center;
+	border: 3px solid;
+	margin-bottom: 10px;
+	border-radius: 8px;
+	border-color: black;
+	background-color:#00b2ff75; 
+}
+.disp .dislist{
+	text-align: left;
+}
+.dislist a{
+	text-decoration: none;
+	display: block;
+	color: black;
+	border: 2px solid;
+	border-width: 
+	margin-top:2px;
+	margin-left: 2px;
+}
+.dislist a:hover{
+	background-color: #00b2ff75;
+	border-radius: 8px;
+	border-color: #266b18;-
+	transition: 0.25s ease-in-out;
+	color:white; 
+}
+.alcarousel{
+    border: 2px solid;
+	border-color:#0083ffd9; 
+	padding: 5px;
+	border-radius: 10px;
+	display: inline-block;
+	float: right;
+	margin-top: 160px;
+	margin-right: 100px;
+}
+.disfooter{
+	margin-top: 40px;
+	text-align: center;
+	background-color: #00b2ff75; 
+}
